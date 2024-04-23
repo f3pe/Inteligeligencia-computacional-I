@@ -3,6 +3,6 @@
 <img src="problema_desc.png">
 <p>Para executar abra o arquivo "Problema.py" dentro da pasta aima e execute ele.</p>
 <hr>
-<p>Esse repositorio compartilha das mesmas dependencias do repositorio do aima-python</p>
+<p>Esse repositorio compartilha das mesmas dependencias do repositorio do aima-python e é basicamente um clone dele, então dentro da pasta aima você vai encontrar o readme do projeto aima-python</p>
 
 <p>Esse repositorio tem por objetivo armazenar a solução utilizada para a entrega do trabalho de Inteligencia computacional I da UERJ-ZO<p>
